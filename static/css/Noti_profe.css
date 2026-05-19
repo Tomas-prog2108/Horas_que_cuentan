@@ -10,6 +10,12 @@ body {
     height: 100vh;
 }
 
+.main{
+    margin-top: 4rem;
+    margin-left: 5rem;
+    margin-right: 2rem;
+}
+
 /* Menú lateral */
 .sidebar {
     width: 220px;
